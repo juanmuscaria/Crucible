@@ -2,12 +2,11 @@
 ## High priority
 - [X] Rework the entire build system, installer jar paperclip style and pray the mojang gods does not go after us
 - [X] New release type, Crucible Reflux (Thermos with important security and bug fixes, drop in replacement for Thermos)
-- [ ] Drop the current dev branch, rework the way the stable-dev lifecycle is done
+- [X] Drop the current dev branch, rework the way the stable-dev lifecycle is done
 - [ ] Crucible wiki and general modding wiki
 - [ ] Simple welcome website
 
 ## Medium priority
-- [ ] Possibly reattach/rewrite our current git history and make the repo a fork of thermos
 - [ ] Guidelines for contribution, make new contributions easy for anyone
 - [ ] Finish working the discord server
 - [ ] Proper FAQ
